@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <caseType>Nominative</caseType>
+        <plural>false</plural>
+        <value>Кейс E2EFX</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Nominative</caseType>
+        <plural>true</plural>
+        <value>Кейсы E2EFX</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Accusative</caseType>
+        <plural>false</plural>
+        <value><!-- Кейс E2EFX --></value>
+    </caseValues>
+    <caseValues>
+        <caseType>Accusative</caseType>
+        <plural>true</plural>
+        <value><!-- Кейсы E2EFX --></value>
+    </caseValues>
+    <caseValues>
+        <caseType>Genitive</caseType>
+        <plural>false</plural>
+        <value><!-- Кейс E2EFX --></value>
+    </caseValues>
+    <caseValues>
+        <caseType>Genitive</caseType>
+        <plural>true</plural>
+        <value><!-- Кейсы E2EFX --></value>
+    </caseValues>
+    <caseValues>
+        <caseType>Dative</caseType>
+        <plural>false</plural>
+        <value><!-- Кейс E2EFX --></value>
+    </caseValues>
+    <caseValues>
+        <caseType>Dative</caseType>
+        <plural>true</plural>
+        <value><!-- Кейсы E2EFX --></value>
+    </caseValues>
+    <caseValues>
+        <caseType>Instrumental</caseType>
+        <plural>false</plural>
+        <value><!-- Кейс E2EFX --></value>
+    </caseValues>
+    <caseValues>
+        <caseType>Instrumental</caseType>
+        <plural>true</plural>
+        <value><!-- Кейсы E2EFX --></value>
+    </caseValues>
+    <caseValues>
+        <caseType>Prepositional</caseType>
+        <plural>false</plural>
+        <value><!-- Кейс E2EFX --></value>
+    </caseValues>
+    <caseValues>
+        <caseType>Prepositional</caseType>
+        <plural>true</plural>
+        <value><!-- Кейсы E2EFX --></value>
+    </caseValues>
+    <gender>Masculine</gender>
+    <nameFieldLabel>Имя кейса E2EFX</nameFieldLabel>
+    <sharingReasons>
+        <label><!-- E2EFX Reason --></label>
+        <name>E2EFX_Reason</name>
+    </sharingReasons>
+    <validationRules>
+        <errorMessage><!-- Info too long (E2EFX) --></errorMessage>
+        <name>E2EFX_VR</name>
+    </validationRules>
+    <webLinks>
+        <label><!-- E2EFX_Link --></label>
+        <name>E2EFX_Link</name>
+    </webLinks>
+</CustomObjectTranslation>

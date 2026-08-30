@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>check_the_rules</fullName>
+    <active>true</active>
+    <description>desckjlkj hkh khg hjkg jh</description>
+    <errorConditionFormula>CreatedDate  &gt;=  NOW()</errorConditionFormula>
+    <errorMessage>magic!</errorMessage>
+</ValidationRule>

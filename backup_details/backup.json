@@ -1,0 +1,9 @@
+{
+  "org": "my dev org",
+  "apiVersion": "67.0",
+  "timestamp": "2026-08-30T00:59:13.571Z",
+  "counts": {
+    "files": 3527,
+    "bytes": 14895225
+  }
+}

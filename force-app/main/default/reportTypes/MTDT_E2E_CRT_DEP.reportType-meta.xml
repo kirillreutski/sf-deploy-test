@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <baseObject>MTDT_E2E_RT_Obj__c</baseObject>
+    <category>other</category>
+    <deployed>true</deployed>
+    <description>CRT on custom object</description>
+    <label>MTDT E2E CRT Dep</label>
+    <sections>
+        <columns>
+            <checkedByDefault>true</checkedByDefault>
+            <field>Name</field>
+            <table>MTDT_E2E_RT_Obj__c</table>
+        </columns>
+        <masterLabel>Object Info</masterLabel>
+    </sections>
+</ReportType>

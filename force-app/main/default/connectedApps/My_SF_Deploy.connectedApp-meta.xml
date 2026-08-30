@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConnectedApp xmlns="http://soap.sforce.com/2006/04/metadata">
+    <contactEmail>mtdt@mtdt.io</contactEmail>
+    <label>MTDT.io</label>
+    <oauthConfig>
+        <callbackUrl>https://my-sf-deploy-770d916c0751.herokuapp.com/example.php
+https://my-sf-deploy-770d916c0751.herokuapp.com/auth_callback
+https://sf-cloner.coolify.reutski.pro/oauth2/callback
+https://panel.staging.mtdt.io/oauth2-callback
+https://panel.mtdt.io/oauth2-callback
+https://sf-cloner.coolify.reutski.pro/oauth2-callback
+https://panel.staging-3.mtdt.io/oauth2-callback
+https://panel-new.staging-3.mtdt.io/oauth2-callback</callbackUrl>
+        <consumerKey>3MVG9YDQS5WtC11rgVRM3J62cH_qn2gzum.Kk.XMlI5pqqf3_8wceeVdY1PL425KQGc7GkSpNr5wBheb6tQ5.</consumerKey>
+        <isAdminApproved>false</isAdminApproved>
+        <isClientCredentialEnabled>false</isClientCredentialEnabled>
+        <isCodeCredentialEnabled>false</isCodeCredentialEnabled>
+        <isCodeCredentialPostOnly>false</isCodeCredentialPostOnly>
+        <isConsumerSecretOptional>true</isConsumerSecretOptional>
+        <isIntrospectAllTokens>false</isIntrospectAllTokens>
+        <isNamedUserJwtEnabled>false</isNamedUserJwtEnabled>
+        <isPkceRequired>true</isPkceRequired>
+        <isRefreshTokenRotationEnabled>true</isRefreshTokenRotationEnabled>
+        <isSecretRequiredForRefreshToken>false</isSecretRequiredForRefreshToken>
+        <isSecretRequiredForTokenExchange>false</isSecretRequiredForTokenExchange>
+        <isTokenExchangeEnabled>true</isTokenExchangeEnabled>
+        <scopes>Basic</scopes>
+        <scopes>Api</scopes>
+        <scopes>Web</scopes>
+        <scopes>Full</scopes>
+        <scopes>RefreshToken</scopes>
+        <scopes>Interaction</scopes>
+    </oauthConfig>
+    <oauthPolicy>
+        <ipRelaxation>BYPASS</ipRelaxation>
+        <isTokenExchangeFlowEnabled>true</isTokenExchangeFlowEnabled>
+        <refreshTokenPolicy>infinite</refreshTokenPolicy>
+    </oauthPolicy>
+    <sessionPolicy>
+        <sessionTimeout>15</sessionTimeout>
+    </sessionPolicy>
+</ConnectedApp>

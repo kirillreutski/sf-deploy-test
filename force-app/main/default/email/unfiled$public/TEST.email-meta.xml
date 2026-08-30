@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>false</available>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <letterhead>HEAD</letterhead>
+    <name>TEST</name>
+    <style>formalLetter</style>
+    <subject>TEST</subject>
+    <textOnly>Some text here  Some text there and a few words over there</textOnly>
+    <type>html</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

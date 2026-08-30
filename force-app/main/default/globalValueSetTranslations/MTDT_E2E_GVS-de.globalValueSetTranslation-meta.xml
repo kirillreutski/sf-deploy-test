@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSetTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <valueTranslation>
+        <masterLabel>Alpha</masterLabel>
+        <translation>Alpha (DE)</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Beta</masterLabel>
+        <translation>Beta (DE)</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Gamma</masterLabel>
+        <translation>Gamma (DE)</translation>
+    </valueTranslation>
+</GlobalValueSetTranslation>

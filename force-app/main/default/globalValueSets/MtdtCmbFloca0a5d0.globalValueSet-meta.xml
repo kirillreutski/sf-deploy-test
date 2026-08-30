@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>MTDT_CMB_F1</fullName>
+        <default>false</default>
+        <label>MTDT_CMB_F1</label>
+    </customValue>
+    <customValue>
+        <fullName>MTDT_CMB_F2</fullName>
+        <default>false</default>
+        <label>MTDT_CMB_F2</label>
+    </customValue>
+    <masterLabel>CMB SRC loca0a5d0</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>MTDT_QA_IA_VAL_loc4e27b4</fullName>
+        <default>false</default>
+        <label>MTDT_QA_IA_VAL_loc4e27b4</label>
+    </customValue>
+    <masterLabel>MtdtQaIaGvsloc4e27b4__gvs</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>

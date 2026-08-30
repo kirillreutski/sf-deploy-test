@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConnectedApp xmlns="http://soap.sforce.com/2006/04/metadata">
+    <contactEmail>info@mtdt.io</contactEmail>
+    <label>MTDT.io local dev</label>
+    <oauthConfig>
+        <callbackUrl>https://my-sf-deploy-770d916c0751.herokuapp.com/example.php
+https://my-sf-deploy-770d916c0751.herokuapp.com/auth_callback
+https://sf-cloner.coolify.reutski.pro/oauth2/callback
+https://panel.staging.mtdt.io/oauth2-callback
+https://panel.mtdt.io/oauth2-callback
+https://sf-cloner.coolify.reutski.pro/oauth2-callback</callbackUrl>
+        <certificate>MIIDwTCCAqmgAwIBAgIUA6ksURFTUTv/0y3VW9ao1IfmlZ4wDQYJKoZIhvcNAQELBQAwcDELMAkGA1UEBhMCUEwxDzANBgNVBAgMBldBUlNBVzEPMA0GA1UEBwwGV0FSU0FXMRAwDgYDVQQKDAdNVERULmlvMRAwDgYDVQQDDAdtdGR0LmlvMRswGQYJKoZIhvcNAQkBFgxpbmZvQG10ZHQuaW8wHhcNMjYwMjE2MjAyNzE1WhcNMzYwMjE0MjAyNzE1WjBwMQswCQYDVQQGEwJQTDEPMA0GA1UECAwGV0FSU0FXMQ8wDQYDVQQHDAZXQVJTQVcxEDAOBgNVBAoMB01URFQuaW8xEDAOBgNVBAMMB210ZHQuaW8xGzAZBgkqhkiG9w0BCQEWDGluZm9AbXRkdC5pbzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBANFs1A4SgoM4QStt20dLplzE9weKhrUGlvJHfjEHKstrnzievcSYECuOramiFFzwKV4DfACJ9gNbvOPojc9eAVojkw1ZPvh0N9FwhnwFEZ70Qk+E/LpJhTRhAl7C5XZ8WFez1v/DnqZ3c6p4HzhYBWZ2Kyo/iDHz4puePm9xc4nUtKwKfVFPj2ZtsWP224R/J6z3QCX/wxUV8LBQuDQoijuZRwRvFZ/dMhDpyqXFL/uRSqR4VE7Dq8t94MeBw0i9WAmoPZhQnn33aptGLCIEV9dyZdrIibITXUBg2Kawtcef4StVy4JqzcFzS3jSSix8eNWe4xtOcWXhPCMU87eZNJ0CAwEAAaNTMFEwHQYDVR0OBBYEFIq/N7nOkr8Y03jp7ATAN9mEEWZxMB8GA1UdIwQYMBaAFIq/N7nOkr8Y03jp7ATAN9mEEWZxMA8GA1UdEwEB/wQFMAMBAf8wDQYJKoZIhvcNAQELBQADggEBAG4QCSl6KwQqu5/5ue1UyhzyGf5omsybpJ++LaG54BQ3nCeJLO53aqNddusFYWzgGSGotvVdptK/WBycGVaInTYz81nySRQ+Yr471ab3fvGbcDb5Wz2FXiWZhQCukyRIcbXZwbeIjNCbtfvB32V4wmIp+fdAueNEyKdu+mPSrXERGhI2+EXHjlHEGQGGLZId981klZzUbak1tFfulEQzd78E8q2/MIc8mDiXmtzYhuXYvZuNoIq0vGq8csXIWsai0NGEGvHGzrDnVgsXveRe/RR3RhcM0YAIgojrf3Q212KlzcCvyZeyyQtU0tUcEee2BdVHByzGuSUe1bABOJK/aic=</certificate>
+        <consumerKey>3MVG9YDQS5WtC11rgVRM3J62cHxY7ycwedepxNeKZg7ymbKSiinc_ZrfpPj3k345gLS6Fn9xT69LsqsZljRSQ</consumerKey>
+        <isAdminApproved>false</isAdminApproved>
+        <isClientCredentialEnabled>false</isClientCredentialEnabled>
+        <isCodeCredentialEnabled>false</isCodeCredentialEnabled>
+        <isCodeCredentialPostOnly>false</isCodeCredentialPostOnly>
+        <isConsumerSecretOptional>true</isConsumerSecretOptional>
+        <isIntrospectAllTokens>false</isIntrospectAllTokens>
+        <isNamedUserJwtEnabled>false</isNamedUserJwtEnabled>
+        <isPkceRequired>true</isPkceRequired>
+        <isRefreshTokenRotationEnabled>true</isRefreshTokenRotationEnabled>
+        <isSecretRequiredForRefreshToken>false</isSecretRequiredForRefreshToken>
+        <isSecretRequiredForTokenExchange>false</isSecretRequiredForTokenExchange>
+        <isTokenExchangeEnabled>true</isTokenExchangeEnabled>
+        <scopes>Basic</scopes>
+        <scopes>Api</scopes>
+        <scopes>Web</scopes>
+        <scopes>RefreshToken</scopes>
+        <scopes>OpenID</scopes>
+        <scopes>CDPIngest</scopes>
+        <scopes>CDPProfile</scopes>
+        <scopes>CDPQuery</scopes>
+        <scopes>CDPSegment</scopes>
+        <scopes>CDPIdentityResolution</scopes>
+        <scopes>CDP</scopes>
+        <scopes>EinsteinGPT</scopes>
+    </oauthConfig>
+    <oauthPolicy>
+        <ipRelaxation>ENFORCE</ipRelaxation>
+        <isTokenExchangeFlowEnabled>false</isTokenExchangeFlowEnabled>
+        <refreshTokenPolicy>infinite</refreshTokenPolicy>
+    </oauthPolicy>
+</ConnectedApp>

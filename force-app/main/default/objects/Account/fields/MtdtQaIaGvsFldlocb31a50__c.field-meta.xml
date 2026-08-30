@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>MtdtQaIaGvsFldlocb31a50__c</fullName>
+    <label>MtdtQaIaGvsFldlocb31a50</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetName>MtdtQaIaGvslocb31a50</valueSetName>
+    </valueSet>
+</CustomField>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>E2EFX_Filtered</fullName>
+    <columns>NAME</columns>
+    <filterScope>Everything</filterScope>
+    <filters>
+        <field>Info__c</field>
+        <operation>contains</operation>
+        <value>qa</value>
+    </filters>
+    <label>E2EFX Filtered</label>
+</ListView>

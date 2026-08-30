@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Acquired Account</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Acquired Accounts</value>
+    </caseValues>
+    <fieldSets>
+        <label><!-- fs label --></label>
+        <name>fs_name</name>
+    </fieldSets>
+    <recordTypes>
+        <label><!-- rt1 --></label>
+        <name>rt1</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- rt2 --></label>
+        <name>rt2</name>
+    </recordTypes>
+    <startsWith>Vowel</startsWith>
+    <validationRules>
+        <errorMessage><!-- magic! --></errorMessage>
+        <name>check_the_rules</name>
+    </validationRules>
+</CustomObjectTranslation>

@@ -1,0 +1,3 @@
+<apex:page standardController="MTDT_OMIT_PROBE__c">
+  <h1>MTDT action-override probe (Visualforce)</h1>
+</apex:page>

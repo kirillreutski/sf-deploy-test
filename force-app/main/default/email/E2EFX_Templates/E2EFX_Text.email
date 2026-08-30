@@ -1,0 +1,2 @@
+E2EFX plain text template body.
+Hello {!Receiving_User.FirstName}, this is fixture text v1.

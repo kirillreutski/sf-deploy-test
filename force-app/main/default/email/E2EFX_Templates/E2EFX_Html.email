@@ -1,0 +1,6 @@
+<html>
+<body>
+<p>E2EFX <b>custom HTML</b> template body v1.</p>
+<p>Hello {!Receiving_User.FirstName}.</p>
+</body>
+</html>

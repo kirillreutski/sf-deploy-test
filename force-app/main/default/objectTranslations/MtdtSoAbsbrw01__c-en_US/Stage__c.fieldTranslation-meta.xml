@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Stage ABSENT brw01 --></label>
+    <name>Stage__c</name>
+    <picklistValues>
+        <masterLabel>OnlyInSource1</masterLabel>
+        <translation><!-- OnlyInSource1 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>OnlyInSource2</masterLabel>
+        <translation><!-- OnlyInSource2 --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

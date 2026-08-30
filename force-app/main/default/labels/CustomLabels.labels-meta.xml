@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>Another_Short_Description</fullName>
+        <categories>Another Category</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Another Short Description</shortDescription>
+        <value>Value goes here</value>
+    </labels>
+    <labels>
+        <fullName>E2EFX_Label</fullName>
+        <categories>E2EFX</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>E2EFX Label</shortDescription>
+        <value>Значение E2EFX v2</value>
+    </labels>
+    <labels>
+        <fullName>Short_Description</fullName>
+        <categories>Categories text value</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Short Description</shortDescription>
+        <value>value1</value>
+    </labels>
+</CustomLabels>

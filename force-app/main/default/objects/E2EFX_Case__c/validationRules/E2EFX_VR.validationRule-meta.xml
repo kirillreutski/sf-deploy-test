@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>E2EFX_VR</fullName>
+    <active>true</active>
+    <errorConditionFormula>LEN(Info__c) &gt; 200</errorConditionFormula>
+    <errorMessage>Info too long (E2EFX)</errorMessage>
+</ValidationRule>

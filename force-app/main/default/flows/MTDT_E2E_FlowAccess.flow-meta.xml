@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Flow xmlns="http://soap.sforce.com/2006/04/metadata">
+    <apiVersion>63.0</apiVersion>
+    <areMetricsLoggedToDataCloud>false</areMetricsLoggedToDataCloud>
+    <assignments>
+        <name>SetVar</name>
+        <label>SetVar</label>
+        <locationX>176</locationX>
+        <locationY>134</locationY>
+        <assignmentItems>
+            <assignToReference>varText</assignToReference>
+            <operator>Assign</operator>
+            <value>
+                <stringValue>x</stringValue>
+            </value>
+        </assignmentItems>
+    </assignments>
+    <description>MTDT permset-&gt;flow-access e2e fixture</description>
+    <interviewLabel>MTDT E2E FlowAccess {!$Flow.CurrentDateTime}</interviewLabel>
+    <label>MTDT E2E FlowAccess</label>
+    <processType>AutoLaunchedFlow</processType>
+    <start>
+        <locationX>50</locationX>
+        <locationY>0</locationY>
+        <connector>
+            <targetReference>SetVar</targetReference>
+        </connector>
+    </start>
+    <status>Active</status>
+    <variables>
+        <name>varText</name>
+        <dataType>String</dataType>
+        <isCollection>false</isCollection>
+        <isInput>false</isInput>
+        <isOutput>false</isOutput>
+    </variables>
+</Flow>

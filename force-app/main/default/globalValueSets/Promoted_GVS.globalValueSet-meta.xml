@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>opt1</fullName>
+        <default>false</default>
+        <label>opt1</label>
+    </customValue>
+    <customValue>
+        <fullName>opt2</fullName>
+        <default>false</default>
+        <label>opt2</label>
+    </customValue>
+    <customValue>
+        <fullName>opt3</fullName>
+        <default>false</default>
+        <label>opt3</label>
+    </customValue>
+    <customValue>
+        <fullName>opt4</fullName>
+        <default>false</default>
+        <label>opt4</label>
+    </customValue>
+    <customValue>
+        <fullName>opt5</fullName>
+        <default>false</default>
+        <label>opt5</label>
+    </customValue>
+    <masterLabel>Promoted GVS</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>

@@ -1,0 +1,6 @@
+<messaging:emailTemplate subject="Folder Template" recipientType="Lead" >
+<messaging:plainTextEmailBody >
+Congratulations!
+This is your new Visualforce Email Template.
+</messaging:plainTextEmailBody>
+</messaging:emailTemplate>

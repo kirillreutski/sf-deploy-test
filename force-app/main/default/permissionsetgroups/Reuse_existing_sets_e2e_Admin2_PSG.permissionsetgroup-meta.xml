@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSetGroup xmlns="http://soap.sforce.com/2006/04/metadata">
+    <hasActivationRequired>false</hasActivationRequired>
+    <label>Admin2 (migrated)</label>
+    <permissionSets>Reuse_existing_sets_e2e_Set_1</permissionSets>
+    <permissionSets>query_all_files</permissionSets>
+    <status>Updated</status>
+</PermissionSetGroup>
